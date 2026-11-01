@@ -1,0 +1,9 @@
+id = "timer"
+name = "Timer"
+version = "0.1.0"
+api = 1
+entry = "main:TimerModule"
+description = "Say a phrase on a timer with Active Settings."
+author = "MiraSpeak"
+permissions = ["speak", "mcp_tools"]
+post_to_chat = false
